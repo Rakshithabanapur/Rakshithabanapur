@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there Rakshitha Banapur here 👋
+
+I have completed my bachelors of engineering at Dr Ambedkar institute of technology, Bengaluru.
+
+[Linkedin](linkedin.com/in/rakshitha-banapur)
 
 <!--
 **Rakshithabanapur/Rakshithabanapur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
