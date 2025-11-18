@@ -1,8 +1,27 @@
-## Hi there Rakshitha Banapur here 👋
+## Hi there, I'm Rakshitha Banapur👋
 
-I have completed my bachelors of engineering at Dr Ambedkar institute of technology, Bengaluru.
+A passionate web developer and Computer Science graduate from Dr. Ambedkar Institute of Technology, Bengaluru. 
+Building digital experiences with modern web technologies. Passionate about coding, problem-solving, and creating user-friendly applications.
 
-[Linkedin](https://linkedin.com/in/rakshitha-banapur)
+### :mortar_board: Education
+**Bachelor of Engineering in Information Science**  
+Dr. Ambedkar Institute of Technology, Bengaluru   
+:calendar: 2021-2025 
+
+:books: **Relevant Coursework:** Web Technologies, DBMS
+
+### :computer: Technical Skills
+**Frontend:** HTML, CSS, JavaScript, React  
+**Database:** MongoDB, SQL  
+**Tools:** Git, GitHub, VS Code.
+
+
+:envelope_with_arrow: Open to collaborations and new opportunities! 
+
+### :link: Social profiles
+- **LinkedIn:** [Rakshitha Banapur](https://www.linkedin.com/in/rakshitha-banapur/)
+- **Stack Overflow:** [View profile](https://stackoverflow.com/users/31691210/rakshitha-banapur)
+- **Email:** rakshithabanapur29@gmail.com
 
 <!--
 **Rakshithabanapur/Rakshithabanapur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
