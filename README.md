@@ -1,8 +1,3 @@
-<!--## Hi there, I'm Rakshitha Banapur👋
-
-A passionate web developer and Computer Science graduate from Dr. Ambedkar Institute of Technology, Bengaluru. 
-Building digital experiences with modern web technologies. Passionate about coding, problem-solving, and creating user-friendly applications. -->
-
 <h1 align="center">Hi 👋, I'm Rakshitha Banapur</h1>
 <h3 align="center">I am a Web Developer</h3>
 
@@ -19,13 +14,6 @@ Dr. Ambedkar Institute of Technology, Bengaluru
 :calendar: 2021-2025 
 
 :books: **Relevant Coursework:** Web Technologies, DBMS
-
-<!-- ### :computer: Technical Skills
-**Frontend:** HTML, CSS, JavaScript, React  
-**Database:** MongoDB, SQL  
-**Tools:** Git, GitHub, VS Code. -->
-
-
 
 ### :link: Social profiles
 - **LinkedIn:** [Rakshitha Banapur](https://www.linkedin.com/in/rakshitha-banapur/)
