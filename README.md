@@ -20,7 +20,9 @@ Dr. Ambedkar Institute of Technology, Bengaluru
 - **Stack Overflow:** [View profile](https://stackoverflow.com/users/31691210/rakshitha-banapur)
 - **Email:** rakshithabanapur29@gmail.com
 
-![Rakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshithabanapur&show_icons=true&theme=radical)
+![Rakshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshithabanapur&show_icons=true&theme=radical)  
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithabanapur&layout=donut)](https://github.com/rakshithabanapur/github-readme-stats)
 
 
 <!--Here are some ideas to get you started:
